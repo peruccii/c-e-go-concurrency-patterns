@@ -1,0 +1,14 @@
+/Users/perucci/Desktop/www/cgo/csharp/bin/Debug/net10.0/ComplexPipeline
+/Users/perucci/Desktop/www/cgo/csharp/bin/Debug/net10.0/ComplexPipeline.deps.json
+/Users/perucci/Desktop/www/cgo/csharp/bin/Debug/net10.0/ComplexPipeline.runtimeconfig.json
+/Users/perucci/Desktop/www/cgo/csharp/bin/Debug/net10.0/ComplexPipeline.dll
+/Users/perucci/Desktop/www/cgo/csharp/bin/Debug/net10.0/ComplexPipeline.pdb
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ComplexPipeline.GeneratedMSBuildEditorConfig.editorconfig
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ComplexPipeline.AssemblyInfoInputs.cache
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ComplexPipeline.AssemblyInfo.cs
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ComplexPipeline.csproj.CoreCompileInputs.cache
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ComplexPipeline.dll
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/refint/ComplexPipeline.dll
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ComplexPipeline.pdb
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ComplexPipeline.genruntimeconfig.cache
+/Users/perucci/Desktop/www/cgo/csharp/obj/Debug/net10.0/ref/ComplexPipeline.dll
